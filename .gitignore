@@ -1,0 +1,8 @@
+target
+/*/*.iml
+/.idea
+/.idea_modules
+/.project
+/.settings
+/.bsp
+/*/metadata.conf
